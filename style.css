@@ -1,0 +1,11 @@
+.container {
+    text-align: center;
+}
+.container img {
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+}
+h2{
+    color: darkorange;
+}
